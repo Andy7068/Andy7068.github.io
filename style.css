@@ -1,0 +1,31 @@
+/*my first css*/
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    background-color: rgb(88, 132, 227);
+}
+
+
+img{
+ border: 10px solid blue;   
+}
+
+h1{
+    border: 5px dotted orange;
+}
+
+
+blockquote {
+    
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    
+    font-size: 3rem; 
+    font style:italic ;
+    text-allign: center;
+    }
+    
+    
+    cite{
+        font-size: 2rem;
+    }
+}
