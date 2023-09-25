@@ -1,0 +1,25 @@
+
+body{
+    font-family:Arial, Helvetica, sans-serif; 
+    background-color: orange;
+   }
+   
+   img{
+       border: 10px solid blue;
+   }
+   
+   h1{
+       border: 5px dotted green;
+   }
+   
+   blockquote{
+       font-family:Georgia, 'Times New Roman', Times, serif;
+   
+   ㄴ
+   
+   ul a:link{
+       font-weight:bold;
+       text-decoration: none;
+       color:blue;
+       font-size: 10rem;
+   }
